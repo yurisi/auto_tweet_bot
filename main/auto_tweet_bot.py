@@ -5,6 +5,7 @@
 '''
 sudo apt-get install oauth2を予めコマンドラインで打っておいてください
 動作確認環境 raspbian =　Debian
+分からないことがあればtwitter @yurisi0212まで
 '''
 import time
 import oauth2 as oauth
