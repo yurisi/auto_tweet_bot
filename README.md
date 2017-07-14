@@ -9,7 +9,7 @@ $ sudo apt-get install oauth2
 
 をコマンドラインで実行しoarth2のライブラリをインストールしておいて下さい。
 
-dev.twitter.com
+http://dev.twitter.com
 からkey4種を取得しておいてください
 
 使い方
@@ -39,6 +39,8 @@ $ python3 auto_tweet_bot.py
 にして
 一番最後の#time.sleep()から#)までの#ををすべて外す
 この時にインデントは元々のままで変えないよう気をつけてください。
+
+不明点はhttp://twitter.com/yurisi0212へ
 
 
 
