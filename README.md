@@ -4,6 +4,7 @@
 注意点
 raspbianでのみ動作確認
 ubuntuやdebianでも動作すると思います。
+twitter自体の機能で何時間か置かないと同じ投稿ができませんので気を付けてください
 
 $ sudo apt-get install oauth2
 
@@ -40,7 +41,7 @@ $ python3 auto_tweet_bot.py
 一番最後の#time.sleep()から#)までの#ををすべて外す
 この時にインデントは元々のままで変えないよう気をつけてください。
 
-不明点はhttp://twitter.com/yurisi0212へ
+不明点はhttp://twitter.com/yurisi0212　へ
 
 
 
